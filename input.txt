@@ -1,0 +1,9 @@
+Hello,
+  This message is encrypted by Mamun using DES algorithm. Mamun is the M.Sc. Student of IICT, BUET. Roll No.1015312001.
+
+ If you can decrypt it then you should know my name and roll no. My email id is 
+mamun_kuet04@yahoo.com or mamun.abdullah@dbbl.com.bd
+
+Thanks
+Abdhullah -Al - Mamun
+M.Sc in IICT, BUET
